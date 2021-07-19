@@ -1,0 +1,72 @@
+.first-img{
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 115px;
+}
+.section{
+    display: flex; 
+}
+.box-left{
+    max-width: 350px;
+    margin-right: 125px;
+}
+.box-left h2{
+    margin:48px 0px 29px;
+}
+.body-green.top{
+    margin:53px 0px 16px;
+}
+.body-green.botton{
+    margin-bottom: 32px;
+    text-transform: uppercase;
+}
+.only-one{
+    margin:99px 0px 32px;
+}
+
+.visitar{
+    padding: 17px 60px;
+    margin-bottom: 48px;
+}
+
+.box-rigth{
+    width: 635px;
+}
+.box-rigth p{
+    margin: 28px 0px 40px;
+}
+
+.img-preview img{
+    width: 635px;
+    height: 400px;
+}
+.img-1{
+    margin: 28px 0px 32px;
+}
+.hr-1{
+    margin:64px 0px 32px;
+}
+.btn-anterior{
+    all: unset;
+    display: flex;
+    align-items: center;
+}
+.btn-anterior img{
+    width: 8px;
+    height: 16px;
+}
+.anterior{
+    margin-left: 32px;
+}
+.proximo{
+    margin-right: 32px;
+    text-align: right;
+}
+.projeto{
+    font-size: 16px;
+    color:rgba(51, 50, 61, 0.5);
+    line-height: 30px;
+}
+.hr-2{
+    margin-top: 32px;
+}

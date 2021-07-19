@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #FAFAFA;
+    min-height: 100vh;
+    max-width: 1440px;
+    margin: auto;
+    position: relative;
+}
+.container-portifolio{
+    padding: 0px 49px;
+    margin-top: 94px;
+}
+.imagens{
+    width: 540px;
+    height: 500px;
+}
+
+.content{
+    display: flex;
+    margin-bottom: 80px;
+}
+.right img{
+    margin-right: 125px;
+}
+.portifolio h2{
+    margin:103px 0px 28px;
+}
+.projeto{
+    padding: 17px 38px;
+    margin:54px 0px 103px 0px
+}
+.insure{
+    padding: 17px 38px;
+    margin:24px 0px 103px 0px
+}
+.fylo{
+    padding: 17px 38px;
+    margin:24px 0px 103px 0px
+}
+
+.left img{
+    margin-left: 125px ;
+}

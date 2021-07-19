@@ -1,0 +1,32 @@
+.hr-contatos{
+    margin-top: 94px;
+}
+.container-contato{
+    align-items: baseline;
+}
+.content-contatos{
+    margin:48px 0px 48px 125px;
+    width: 635px;
+}
+.logo-contatos img{
+    margin: 54px 15px 0px 0px;
+}
+.formulario-contato{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 635px;
+    height: 436px;
+    margin: 47px 0px 109px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.form label{
+    margin-bottom: 8px;
+}
+.btn{
+    max-width: 15%;
+    text-align: center;
+}
